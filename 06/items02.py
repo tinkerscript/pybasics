@@ -11,3 +11,8 @@ def random_item(items):
     if len(items) != 0:
         item = choice(items)
         return item
+
+
+if __name__ == '__main__':
+    print(random_item([1, 2, 3, 4]))
+    print(random_item([]))
