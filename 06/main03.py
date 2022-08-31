@@ -5,4 +5,3 @@ from items02 import random_item
 # delete()
 print(random_item([1, 2, 3, 4]))
 print(random_item([]))
-

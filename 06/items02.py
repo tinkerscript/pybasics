@@ -8,9 +8,6 @@ from random import choice
 
 
 def random_item(items):
-    item = None
-
     if len(items) != 0:
         item = choice(items)
-
-    return item
+        return item
