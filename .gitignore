@@ -2,3 +2,5 @@ __pycache__/
 .idea
 group.json
 group.pickle
+log.txt
+text.dat
